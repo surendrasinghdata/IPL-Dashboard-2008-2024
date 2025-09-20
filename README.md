@@ -15,7 +15,6 @@ Files Used:
 
 matches.csv → Match-level details (teams, season, winner, toss, player of the match)
 
-deliveries.csv (optional, not included in this project)
 
 Key Performance Indicators (KPIs)
 
